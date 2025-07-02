@@ -96,4 +96,4 @@ app/
 * [x] Фильтрация и API
 * [x] Удаление товаров
 * [x] Юнит-тесты
-* [ ] CI/CD через GitHub Actions
+* [x] CI/CD через GitHub Actions
